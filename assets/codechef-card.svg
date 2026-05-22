@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="280" viewBox="0 0 440 280">
+  <defs>
+    <linearGradient id="ccGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a1a2e;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#16213e;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#7C3AED;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#64b3f4;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+
+  <!-- Card background -->
+  <rect x="0" y="0" width="440" height="280" rx="12" fill="url(#ccGrad)"/>
+
+  <!-- Top accent bar -->
+  <rect x="0" y="0" width="440" height="4" rx="2" fill="url(#accentGrad)"/>
+
+  <!-- CodeChef logo text -->
+  <text x="220" y="42" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="22" font-weight="700" fill="#ffffff">
+    <tspan fill="#7C3AED">&lt;/&gt;</tspan> CodeChef
+  </text>
+
+  <!-- Username -->
+  <text x="220" y="65" text-anchor="middle" font-family="Fira Code,monospace" font-size="13" fill="#8b949e">@rahulkumar_362</text>
+
+  <!-- Divider -->
+  <line x1="40" y1="80" x2="400" y2="80" stroke="#30363d" stroke-width="1"/>
+
+  <!-- Rating section -->
+  <text x="220" y="110" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="14" fill="#8b949e">Current Rating</text>
+  <text x="220" y="145" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="44" font-weight="700" fill="#ffffff">1073</text>
+  <text x="220" y="165" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12" fill="#8b949e">Highest: 1220</text>
+
+  <!-- Stats row -->
+  <line x1="40" y1="180" x2="400" y2="180" stroke="#30363d" stroke-width="1"/>
+
+  <!-- Problems Solved -->
+  <text x="110" y="210" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="28" font-weight="700" fill="#10B981">292</text>
+  <text x="110" y="230" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="11" fill="#8b949e">Problems Solved</text>
+
+  <!-- Contests -->
+  <text x="220" y="210" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="28" font-weight="700" fill="#7C3AED">20</text>
+  <text x="220" y="230" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="11" fill="#8b949e">Contests</text>
+
+  <!-- Stars -->
+  <text x="330" y="210" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="28" font-weight="700" fill="#F59E0B">1&#9733;</text>
+  <text x="330" y="230" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="11" fill="#8b949e">Star Rating</text>
+
+  <!-- Rating progress bar (1073/2000 approx) -->
+  <rect x="40" y="250" width="360" height="8" rx="4" fill="#21262d"/>
+  <rect x="40" y="250" width="193" height="8" rx="4" fill="url(#accentGrad)"/>
+
+  <!-- Footer text -->
+  <text x="220" y="275" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="9" fill="#484f58">codechef.com/users/rahulkumar_362</text>
+</svg>

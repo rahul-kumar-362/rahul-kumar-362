@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#c2e59c;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#64b3f4;stop-opacity:1" />
+    </linearGradient>
+    <clipPath id="waveClip">
+      <path d="M0,40 Q225,0 450,40 T900,40 L900,220 L0,220 Z"/>
+    </clipPath>
+  </defs>
+
+  <!-- Background wave -->
+  <rect width="900" height="220" fill="#0d1117"/>
+  <path d="M0,40 Q225,0 450,40 T900,40 L900,220 L0,220 Z" fill="url(#grad)" opacity="0.25"/>
+  <path d="M0,60 Q225,30 450,60 T900,60 L900,220 L0,220 Z" fill="url(#grad)" opacity="0.18"/>
+  <path d="M0,80 Q225,50 450,80 T900,80 L900,220 L0,220 Z" fill="url(#grad)" opacity="0.12"/>
+
+  <!-- Name -->
+  <text x="450" y="100" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="52" font-weight="700" fill="#ffffff">Rahul Borana</text>
+
+  <!-- Tagline -->
+  <text x="450" y="145" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="18" font-weight="500" fill="#c9d1d9">AI &amp; ML Engineer  |  Full-Stack Builder  |  Spiritual Coder</text>
+
+  <!-- Decorative line -->
+  <line x1="300" y1="165" x2="600" y2="165" stroke="#7C3AED" stroke-width="2" opacity="0.6"/>
+</svg>

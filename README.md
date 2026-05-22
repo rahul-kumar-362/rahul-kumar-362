@@ -1,7 +1,7 @@
 <!-- ==================== HEADER ==================== -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,4,5,6,7&height=240&section=header&text=Rahul%20Borana&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=AI%20%26%20ML%20Engineer%20%7C%20Full-Stack%20Builder%20%7C%20Spiritual%20Coder&descSize=17&descAlignY=56" />
+<img width="100%" src="https://raw.githubusercontent.com/rahul-kumar-362/rahul-kumar-362/main/assets/header-banner.svg" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=7C3AED&center=true&vCenter=true&random=false&width=700&lines=%22You+have+the+right+to+work...%22;%22...but+never+to+the+fruit+of+work.%22;%22--+Bhagavad+Gita+2.47%22)](https://git.io/typing-svg)
 
@@ -90,8 +90,8 @@ class RahulBorana:
 <td width="4%"></td>
 <td width="48%" align="center">
 <h3>CodeChef</h3>
-<a href="https://www.codechef.com/users/rahul_kumar_362">
-<img src="https://cp-logo-assets.vercel.app/codechef/rahul_kumar_362" width="100%" />
+<a href="https://www.codechef.com/users/rahulkumar_362">
+<img src="https://raw.githubusercontent.com/rahul-kumar-362/rahul-kumar-362/main/assets/codechef-card.svg" width="100%" />
 </a>
 </td>
 </tr>
@@ -102,8 +102,8 @@ class RahulBorana:
 <div align="center">
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-rahul__kumar__362-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/rahul_kumar_362)
-[![CodeChef](https://img.shields.io/badge/CodeChef-rahul__kumar__362-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/rahul_kumar_362)
-[![Codolio](https://img.shields.io/badge/Codolio-rahul__kumar__362-6C3CE1?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHRleHQgeD0iNCIgeT0iMTgiIGZpbGw9IndoaXRlIiBmb250LXNpemU9IjE4IiBmb250LXdlaWdodD0iYm9sZCI+QzwvdGV4dD48L3N2Zz4=&logoColor=white)](https://codolio.com/rahul_kumar_362)
+[![CodeChef](https://img.shields.io/badge/CodeChef-rahulkumar__362-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/rahulkumar_362)
+[![Codolio](https://img.shields.io/badge/Codolio-rahulkumar__362-6C3CE1?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHRleHQgeD0iNCIgeT0iMTgiIGZpbGw9IndoaXRlIiBmb250LXNpemU9IjE4IiBmb250LXdlaWdodD0iYm9sZCI+QzwvdGV4dD48L3N2Zz4=&logoColor=white)](https://codolio.com/rahulkumar_362)
 
 </div>
 
@@ -395,8 +395,8 @@ I believe in **building with purpose, learning with humility, and shipping with 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rahul_Borana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-borana-172600292)
 [![GitHub](https://img.shields.io/badge/GitHub-rahul--kumar--362-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rahul-kumar-362)
 [![LeetCode](https://img.shields.io/badge/LeetCode-rahul__kumar__362-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/rahul_kumar_362)
-[![CodeChef](https://img.shields.io/badge/CodeChef-rahul__kumar__362-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/rahul_kumar_362)
-[![Codolio](https://img.shields.io/badge/Codolio-rahul__kumar__362-6C3CE1?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHRleHQgeD0iNCIgeT0iMTgiIGZpbGw9IndoaXRlIiBmb250LXNpemU9IjE4IiBmb250LXdlaWdodD0iYm9sZCI+QzwvdGV4dD48L3N2Zz4=&logoColor=white)](https://codolio.com/rahul_kumar_362)
+[![CodeChef](https://img.shields.io/badge/CodeChef-rahulkumar__362-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/rahulkumar_362)
+[![Codolio](https://img.shields.io/badge/Codolio-rahulkumar__362-6C3CE1?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHRleHQgeD0iNCIgeT0iMTgiIGZpbGw9IndoaXRlIiBmb250LXNpemU9IjE4IiBmb250LXdlaWdodD0iYm9sZCI+QzwvdGV4dD48L3N2Zz4=&logoColor=white)](https://codolio.com/rahulkumar_362)
 [![Email](https://img.shields.io/badge/Email-boranarahul28%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:boranarahul28@gmail.com)
 
 </div>
@@ -406,10 +406,8 @@ I believe in **building with purpose, learning with humility, and shipping with 
 <!-- ==================== FOOTER ==================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=2,3,4,5,6,7&height=30&section=header&text=&fontSize=0" width="100%" />
-
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,4,5,6,7&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=65" />
+<img width="100%" src="https://raw.githubusercontent.com/rahul-kumar-362/rahul-kumar-362/main/assets/footer-banner.svg" />
 
 </div>
