@@ -1,0 +1,18 @@
+name: Update Activity Graph
+
+on:
+  schedule:
+    # Runs every 4 hours
+    - cron: "0 */4 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Trigger activity graph refresh
+        run: |
+          echo "Activity graph auto-refreshes via github-readme-activity-graph API"
+          echo "No additional action needed -- graph is dynamic"
